@@ -2,8 +2,8 @@
 
 ## Student Details
 
-- **Full Name:** Erika
-- **CCID:** `Jimenez Gonzalez
+- **Full Name:** Erika Jimenez Gonzalez
+- **CCID:** edjimen1
 
 ## References and Resources
 https://stackoverflow.com/questions/11401951/android-difference-between-positive-negative-and-neutral-button
