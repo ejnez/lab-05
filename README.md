@@ -2,14 +2,16 @@
 
 ## Student Details
 
-- **Full Name:** Erika Jimenez Gonzalez
-- **CCID:** edjimen1
+- **Full Name:** `<Enter name>`
+- **CCID:** `<Enter ccid>`
 
 ## References and Resources
-https://stackoverflow.com/questions/11401951/android-difference-between-positive-negative-and-neutral-button
+
+List any resources used here, or simply put `N/A` if not applicable.
 
 ## Verbal Collaboration
 
 | Student Name | CCID     |
 | ------------ | -------- |
-| N/A|N/A |
+| `<example1>` | `<CCID>` |
+| `<example2>` | `<CCID>` |
