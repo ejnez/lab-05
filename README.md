@@ -2,16 +2,18 @@
 
 ## Student Details
 
-- **Full Name:** `<Enter name>`
-- **CCID:** `<Enter ccid>`
+- **Full Name:** Erika Jimenez Gonzalez
+- **CCID:** edjimen1
 
 ## References and Resources
-
-List any resources used here, or simply put `N/A` if not applicable.
+https://stackoverflow.com/questions/11401951/android-difference-between-positive-negative-and-neutral-button
 
 ## Verbal Collaboration
 
 | Student Name | CCID     |
 | ------------ | -------- |
-| `<example1>` | `<CCID>` |
-| `<example2>` | `<CCID>` |
+|N/A|N/A|
+
+## HOW TO USE
+Add button, and fragment remain mostly unchanged, but now when editing there is a neutral button named 'Delete' on the left side of the fragment. 
+Click this to remove the selection. 
